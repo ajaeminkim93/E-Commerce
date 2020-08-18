@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="35b0e597-3853-47c8-80b4-8e502e73702f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1gFgbb5yVR1lhopbOvcilmDLuXj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35b0e597-3853-47c8-80b4-8e502e73702f" name="Default Changelist" comment="" />
+      <created>1597715827018</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597715827018</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1060" y="418" key="FileChooserDialogImpl" timestamp="1597717264579">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1060" y="418" key="FileChooserDialogImpl/0.0.2560.1400/-1920.217.1920.1040@0.0.2560.1400" timestamp="1597717264579" />
+    <state x="945" y="405" key="NewModule_or_Project.wizard" timestamp="1597717271712">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="945" y="405" key="NewModule_or_Project.wizard/0.0.2560.1400/-1920.217.1920.1040@0.0.2560.1400" timestamp="1597717271712" />
+    <state x="662" y="321" key="new project wizard" timestamp="1597716629969">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="662" y="321" key="new project wizard/0.0.2560.1400/-1920.217.1920.1040@0.0.2560.1400" timestamp="1597716629969" />
+  </component>
+</project>
